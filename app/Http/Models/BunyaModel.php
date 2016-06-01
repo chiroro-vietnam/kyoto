@@ -1,10 +1,6 @@
-<?php
-
-namespace App\Http\Models;
+<?php namespace App\Http\Models;
 
 use DB;
-
-
 
 class BunyaModel
 {
